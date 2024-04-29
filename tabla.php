@@ -30,7 +30,7 @@
 			<th>Nombre </th>
 			<th>Fecha Nacimiento </th>
 			<th>Estado Civil </th>
-			<th>Mail</th>
+			<th>Correo</th>
 			<th>Carrera</th>
 			<th>Acciones</th>
 
